@@ -1,5 +1,5 @@
 # Screensaver F Jiggler
-# Ejemplo python SimpleJiggler 1
+# Ejemplo python SimpleJiggler.py 5
 
 import pyautogui
 import time
