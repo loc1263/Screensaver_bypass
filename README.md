@@ -3,6 +3,6 @@ pyautogui.keyUp (Jiggler)
 
 # Use
 
-Python.exe SSFJ.py 4
+Python.exe SimpleJiggler.py 4
 
 
