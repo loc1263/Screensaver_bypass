@@ -1,4 +1,7 @@
 /Include/*
 /Lib/*
 /Scripts/*
+/build/*
+/dist/*
 pyvenv.cfg
+SimpleJiggler.spec
