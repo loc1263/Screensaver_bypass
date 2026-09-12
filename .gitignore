@@ -5,3 +5,6 @@
 /dist/*
 pyvenv.cfg
 SimpleJiggler.spec
+__pycache__/
+.vscode/
+
